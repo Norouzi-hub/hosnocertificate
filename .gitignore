@@ -1,0 +1,21 @@
+# فایل‌های سیستمی
+.DS_Store
+Thumbs.db
+
+# فایل‌های وردپرس
+wp-config.php
+wp-content/uploads/
+wp-content/plugins/
+wp-content/themes/
+
+# فایل‌های پروژه
+node_modules/
+vendor/
+*.log
+*.zip
+
+# فایل‌های IDE
+.idea/
+.vscode/
+*.sublime-project
+*.sublime-workspace
